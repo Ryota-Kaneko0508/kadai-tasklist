@@ -49,7 +49,7 @@ test:
 #
 production:
   adapter: postgresql
-  encoding unicode
+  encoding: unicode
   pool: 5
   database: kadai-tasklist_production
   username: kadai-tasklist
